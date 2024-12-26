@@ -5,10 +5,10 @@ Bu proje, HTML, CSS, JavaScript ve React kullanılarak geliştirilmiş basit bir
 
 ## 🎮 Özellikler
 <br/>
-Dinamik Kartlar: Sayfa yenilendiğinde kartlar rastgele değişir.
-React Props: Kart bilgileri props aracılığıyla yönetilir.
-Puanlama Sistemi: Kartların toplam puanı hesaplanır, en yüksek puanı alan kazanır.
-Kolay Kullanım: Hızlı ve eğlenceli bir oyun deneyimi!
+* Dinamik Kartlar: Sayfa yenilendiğinde kartlar rastgele değişir.
+* React Props: Kart bilgileri props aracılığıyla yönetilir.
+* Puanlama Sistemi: Kartların toplam puanı hesaplanır, en yüksek puanı alan kazanır.
+* Kolay Kullanım: Hızlı ve eğlenceli bir oyun deneyimi!
 
 ## 🚀 Teknolojiler
 <br/>
