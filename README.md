@@ -31,7 +31,9 @@ Bu projede kullanılan teknolojiler:
 
 ## 📷 Ekran Görüntüleri
 <br/>
-![pokemon-game](https://github.com/user-attachments/assets/399e9b8d-ddbe-4eb2-aa94-9f210bb400cd)
+
+![pokemon-game](https://github.com/user-attachments/assets/4ab9dfd8-0745-4c6f-9e41-ed9078e0ec3c)
+
 
 
 Saygılarımla....
